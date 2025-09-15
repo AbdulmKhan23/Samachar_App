@@ -20,7 +20,7 @@
 
 | On Borading Screen | Home Screen | Article Details | Search Screen | Bookmarks |
 |-------------|-------------|-------------|-----------------|------------|
-| ![Image](https://github.com/user-attachments/assets/f7d8c4df-e696-4724-843f-fe973a2d05dc) |  ![Image]("https://github.com/user-attachments/assets/d83b0f85-6ab8-4ad0-936b-c91d70bc4508") /> | ![Image](https://github.com/user-attachments/assets/42d1d43f-de54-497f-89e8-d5bda61f3acc) | ![Image](https://github.com/user-attachments/assets/31cfef11-20d4-4725-b143-8943fb17fc87) | ![Image](https://github.com/user-attachments/assets/493c5207-d4b5-42af-82a9-4530a469306c) |
+| ![Image](https://github.com/user-attachments/assets/f7d8c4df-e696-4724-843f-fe973a2d05dc) |  ![Image]("https://github.com/user-attachments/assets/d83b0f85-6ab8-4ad0-936b-c91d70bc4508")  | ![Image](https://github.com/user-attachments/assets/42d1d43f-de54-497f-89e8-d5bda61f3acc) | ![Image](https://github.com/user-attachments/assets/31cfef11-20d4-4725-b143-8943fb17fc87) | ![Image](https://github.com/user-attachments/assets/493c5207-d4b5-42af-82a9-4530a469306c) |
 
 ---
 
